@@ -3,8 +3,6 @@
 The Inventory Management System is designed to handle day-to-day inventory operations such as adding products, managing categories, tracking suppliers, monitoring stock levels, and generating low-stock alerts.
 This project demonstrates how JDBC and Hibernate ORM can be used together effectively in a Java application for both direct SQL operations and ORM-based entity management.
 
-It is ideal for students, beginners, and job seekers looking to strengthen backend Java development skills with real-world concepts like database connectivity, ORM, exception handling, and modular application architecture.
-
 ## 🛠️ Tech Stack Used
 ### 1. Java
 
